@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcd78d4-7531-45d7-807a-9d399aad43e7" name="Changes" comment="" />
+    <list default="true" id="0dcd78d4-7531-45d7-807a-9d399aad43e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/Departement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/DepartementHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/DepartementHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/MenuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/SchoolHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/SchoolHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/UserHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML_Classes/UserHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Win_Academy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Win_Academy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Win_Academy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Win_Academy/Win_Academy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UML_Classes/Role.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FUyxyjDAYRlkpGEuEUzZdKknxB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +56,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/Users/Youcode/IdeaProjects/javaBasics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UML_Classes.Main" />
+      <module name="Win_Academy_Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UML_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +96,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664561213694</updated>
+      <workItem from="1664561216075" duration="96652000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
